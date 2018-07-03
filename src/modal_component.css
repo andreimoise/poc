@@ -1,0 +1,9 @@
+.modal-footer {
+  clear: both;
+}
+
+.btn.btn-warning {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}

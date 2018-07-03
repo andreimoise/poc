@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "department_number": 21,
+      "department_description": "Fleisch",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 22,
+      "department_description": "Frische Service",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 23,
+      "department_description": "Frischdienst, Tiefkühlkost",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 24,
+      "department_description": "O&G/Blumen, Pflanzen",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 25,
+      "department_description": "Trockensortiment",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 26,
+      "department_description": "Drogerie/Waschmittel",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 27,
+      "department_description": "Haushalt",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 28,
+      "department_description": "Elektro/Büro/Medien",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 29,
+      "department_description": "Tchibo/Treue/Tragetaschen",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 30,
+      "department_description": "KFZ/Saison",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 31,
+      "department_description": "Spiele",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 32,
+      "department_description": "Textil/Sport",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 33,
+      "department_description": "Schuhe",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 34,
+      "department_description": "Pfand/Leergut",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 35,
+      "department_description": "Getränke",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 36,
+      "department_description": "Fisch",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 37,
+      "department_description": "Bäckerei, Backwaren",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    },
+    {
+      "department_number": 0,
+      "department_description": "TOLERANZEN",
+      "is_service": 0,
+      "is_package_print": 0,
+      "is_without_gr": 0
+    }
+  ]
+}
